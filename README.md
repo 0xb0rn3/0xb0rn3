@@ -1,7 +1,8 @@
-Current Date and Time (UTC): 2024-12-31 12:44:00
-Current User's Login: 0xb0rn3
-0xb0rn3 🌙
+# `0xb0rn3` 🌙
 
+![](https://raw.githubusercontent.com/0xb0rn3/0xb0rn3/main/assets/header_.png)
+
+```diff
 + Anonymity is not just a preference, it's a practice
 
 🎭 Operating in the shadows of cyberspace
