@@ -24,8 +24,7 @@
 
 ./languages
 
-bash
-
+#!/bash
 # Remember:
 if [ "${PRIVACY}" != "maintained" ]; then
     exit 1
