@@ -4,9 +4,6 @@ Current User's Login: 0xb0rn3
 
 + Anonymity is not just a preference, it's a practice
 
-$ whoami
-undefined
-
 🎭 Operating in the shadows of cyberspace
 💻 Security researcher and developer focused on system hardening
 🛡️ Building tools for those who value privacy and security
@@ -14,9 +11,7 @@ undefined
 🕶️ Maintaining strict anonymity - no personal details shared
 📧 Secure contact: 0xb0rn3@proton.me (PGP preferred)
 
-~/projects
-Security & Utilities
-undefined
+## Security & Utilities
 
 🔐 [blackutility](https://github.com/0xb0rn3/blackutility): A comprehensive security testing and penetration testing toolkit
 🐍 [k0bra](https://github.com/0xb0rn3/k0bra): Advanced network analysis and security assessment tool
