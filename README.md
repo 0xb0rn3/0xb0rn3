@@ -12,7 +12,7 @@
 🕶️ Maintaining strict anonymity - no personal details shared
 📧 Secure contact: 0xb0rn3@proton.me (PGP preferred)
 
-## Security & Utilities
+Security & Utilities
 
 🔐 [blackutility](https://github.com/0xb0rn3/blackutility): A comprehensive security testing and penetration testing toolkit
 🐍 [k0bra](https://github.com/0xb0rn3/k0bra): Advanced network analysis and security assessment tool
@@ -20,11 +20,7 @@
 🚨 [siren](https://github.com/0xb0rn3/siren): Alert and monitoring system for network security
 📊 [testmyspeed](https://github.com/0xb0rn3/testmyspeed): Network speed testing and analysis tool
 
-./stats
-
-./languages
-
-#!/bash
+bash
 # Remember:
 if [ "${PRIVACY}" != "maintained" ]; then
     exit 1
