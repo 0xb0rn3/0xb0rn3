@@ -1,0 +1,24 @@
+name: Update Timestamp
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Runs every 30 minutes
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Update timestamp
+        run: |
+          sed -i "1c\\Current Date and Time (UTC): $(date -u '+%Y-%m-%d %H:%M:%S')" README.md
+          sed -i "2c\\Current User's Login: 0xb0rn3" README.md
+          
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update timestamp" && git push)
