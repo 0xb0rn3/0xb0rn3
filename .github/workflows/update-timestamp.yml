@@ -1,7 +1,7 @@
 name: Update Timestamp
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Runs every 30 minutes
+    - cron: '*/30 * * * *'  # Runs every 30 minutes (note the 5 fields)
   workflow_dispatch:  # Allows manual trigger
 jobs:
   update-readme:
