@@ -11,8 +11,21 @@ jobs:
       
       - name: Update timestamp
         run: |
-          sed -i "1c\\Current Date and Time (UTC): $(date -u '+%Y-%m-%d %H:%M:%S')" README.md
-          sed -i "2c\\Current User's Login: 0xb0rn3" README.md
+          # Create a temporary file with timestamp information
+          echo "Current Date and Time (UTC): $(date -u '+%Y-%m-%d %H:%M:%S')" > temp_header
+          echo "Current User's Login: 0xb0rn3" >> temp_header
+          
+          # Extract header (first 2 lines) from README
+          head -n 2 README.md > header_part
+          
+          # Extract content after header from README
+          tail -n +3 README.md > content_part
+          
+          # Combine parts in the right order
+          cat header_part temp_header content_part > README.md
+          
+          # Clean up temporary files
+          rm temp_header header_part content_part
           
       - name: Commit and push if changed
         run: |
