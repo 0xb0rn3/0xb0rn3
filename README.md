@@ -1,0 +1,275 @@
+<div align="center">
+  
+  # 0xb0rn3's Digital Arsenal <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=435&lines=Cybersecurity+Innovator;Offensive+Security+Engineer;Automation+Specialist;Building+tools+in+the+dark...;For+those+who+work+in+shadows)](https://git.io/typing-svg)
+  
+  <br>
+  
+  <a href="https://github.com/0xb0rn3">
+    <img src="https://img.shields.io/github/followers/0xb0rn3?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/0xb0rn3">
+    <img src="https://komarev.com/ghpvc/?username=0xb0rn3&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/0xb0rn3">
+    <img src="https://img.shields.io/badge/Latest-Activity-FF6B6B?style=for-the-badge&logo=git&logoColor=white" alt="Latest Activity"/>
+  </a>
+  
+  <br>
+  <br>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=0xb0rn3&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" alt="0xb0rn3's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xb0rn3&theme=radical&hide_border=true" width="400" alt="0xb0rn3's GitHub Streak"/>
+  
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="Fire" width="25" height="25" /> Latest Activity & Projects
+
+<div align="center">
+  
+  ### 🔥 Fresh Commits & Repositories
+  
+  <!-- LATEST_REPOS_START -->
+  <table>
+    <tr>
+      <th align="center">Repository</th>
+      <th align="center">Latest Commit</th>
+      <th align="center">Status</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/0xb0rn3/krilin">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=krilin&theme=radical&hide_border=true&show_owner=false" alt="krilin"/>
+        </a>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/github/last-commit/0xb0rn3/krilin?style=for-the-badge&color=4CAF50&logo=git" alt="Last Commit"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Status-Active-00FF00?style=for-the-badge&logo=checkmarx" alt="Active"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/0xb0rn3/bkygo">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=bkygo&theme=radical&hide_border=true&show_owner=false" alt="bkygo"/>
+        </a>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/github/last-commit/0xb0rn3/bkygo?style=for-the-badge&color=4CAF50&logo=git" alt="Last Commit"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Status-Active-00FF00?style=for-the-badge&logo=checkmarx" alt="Active"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/0xb0rn3?tab=repositories&sort=updated">
+          <img src="https://img.shields.io/badge/View_All-Repositories-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="View All Repos"/>
+        </a>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/github/followers/0xb0rn3?style=for-the-badge&color=FF6B6B&logo=github" alt="Followers"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/github/stars/0xb0rn3?style=for-the-badge&color=FFD700&logo=star" alt="Total Stars"/>
+      </td>
+    </tr>
+  </table>
+  <!-- LATEST_REPOS_END -->
+  
+  ### 📊 Activity Dashboard
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xb0rn3&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+  
+  ### 📝 Latest Commits
+  
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+  
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Welcome to My Digital Playground
+
+I'm a cybersecurity innovator blending creativity with precision. My work revolves around designing systems that simplify the complex, secure the fragile, and illuminate the hidden. With a penchant for automation and performance, I focus on tools that are scalable, impactful, and—most importantly—fun to use.
+
+<div align="center">
+  <img src="https://github.com/0xb0rn3/0xb0rn3/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" alt="Sparkles" width="25" height="25" /> My Approach
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Purpose-Driven Development</h3>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="60" height="60"/>
+      </p>
+      <p align="center">Every script, every project is designed to solve a problem or enhance an experience.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Offensive Meets Defensive</h3>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="60" height="60"/>
+      </p>
+      <p align="center">I blur the lines between attack and protection to foster understanding and evolution.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Human-Centric Automation</h3>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="60" height="60"/>
+      </p>
+      <p align="center">My tools emphasize usability without sacrificing depth.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Elegant Solutions</h3>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="60" height="60"/>
+      </p>
+      <p align="center">Finding the simplest path through complex problems.</p>
+    </td>
+  </tr>
+</table>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Expertise
+
+<div align="center">
+  
+  ### Languages & Tools
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+  
+  ### Domains
+  
+  <img src="https://img.shields.io/badge/Network_Scanning-FF6B6B?style=for-the-badge" alt="Network Scanning"/>
+  <img src="https://img.shields.io/badge/Reconnaissance-4D96FF?style=for-the-badge" alt="Reconnaissance"/>
+  <img src="https://img.shields.io/badge/Custom_Automation-6BCB77?style=for-the-badge" alt="Custom Automation"/>
+  <img src="https://img.shields.io/badge/Penetration_Testing-9D65C9?style=for-the-badge" alt="Penetration Testing"/>
+  <img src="https://img.shields.io/badge/Tool_Development-F2C94C?style=for-the-badge" alt="Tool Development"/>
+
+  ### Recent Technology Stack
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xb0rn3&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="0xb0rn3's Top Languages"/>
+  
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Philosophy" width="25" height="25" /> Philosophy
+
+<div align="center">
+  
+  > *"If you can't outthink it, outcode it."*
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  
+</div>
+
+Explore my repositories and discover tools built to make a difference—whether you're uncovering vulnerabilities, managing networks, or solving puzzles.
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Projects" width="25" height="25" /> Featured Projects
+
+<div align="center">
+  
+  ### 🌟 Showcase Gallery
+  
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://github.com/0xb0rn3/krilin">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=krilin&theme=radical&hide_border=true" alt="Krilin Repository"/>
+        </a>
+        <br>
+        <img src="https://img.shields.io/github/stars/0xb0rn3/krilin?style=social" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/0xb0rn3/krilin?style=social" alt="Forks"/>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/0xb0rn3/bkygo">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=bkygo&theme=radical&hide_border=true" alt="BKYGO Repository"/>
+        </a>
+        <br>
+        <img src="https://img.shields.io/github/stars/0xb0rn3/bkygo?style=social" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/0xb0rn3/bkygo?style=social" alt="Forks"/>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/0xb0rn3?tab=repositories&sort=updated">
+          <img src="https://img.shields.io/badge/More_Projects-Coming_Soon-4D96FF?style=for-the-badge&logo=github&logoColor=white&height=120" alt="More Projects"/>
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/Watch-This_Space-FF6B6B?style=social&logo=github" alt="Watch"/>
+      </td>
+    </tr>
+  </table>
+  
+  ### 🔍 Quick Stats Overview
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xb0rn3&theme=radical" alt="Profile Summary"/>
+  
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Analytics" width="25" height="25" /> Development Analytics
+
+<div align="center">
+  
+  ### 📈 Weekly Development Breakdown
+  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=0xb0rn3&theme=radical&hide_border=true" alt="Wakatime Stats"/>
+  
+  ### 🏆 GitHub Achievements
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=0xb0rn3&theme=radical&no-frame=true&row=1&column=7" alt="Trophy Stats"/>
+  
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Contact" width="25" height="25" /> Let's Connect
+
+<div align="center">
+  
+  <a href="https://github.com/0xb0rn3">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:contact@0xb0rn3.dev">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  
+  ### 💬 Get In Touch
+  
+  <img src="https://img.shields.io/badge/Always_Open-To_Collaboration-6BCB77?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Collaboration"/>
+  
+</div>
+
+<br>
+
+<div align="center">
+  
+  > *"Innovation is my default, and challenges fuel my momentum."* 🚀
+  
+</div>
+
+---
+
+<div align="center">
+  
+```bash
+# Remember:
+if [ "${PRIVACY}" != "maintained" ]; then
+    exit 1
+fi
+```
+
+<br>
+
+<b>Building tools in the dark, for those who work in the shadows</b>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Reverse%20Button.png" alt="Reverse" width="25" height="25" />
+
+</div>
