@@ -2,7 +2,6 @@ name: Update README with Latest Projects
 
 on:
   schedule:
-    # Run every 6 hours
     - cron: '0 */6 * * *'
   workflow_dispatch:
   push:
@@ -16,29 +15,15 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
       
-    - name: Setup Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '18'
-        
-    - name: Install dependencies
-      run: |
-        npm install @octokit/rest
-        
     - name: Update README with latest projects
       uses: actions/github-script@v6
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         script: |
-          const { Octokit } = require('@octokit/rest');
           const fs = require('fs');
           
-          const octokit = new Octokit({
-            auth: process.env.GITHUB_TOKEN
-          });
-          
           // Get user's repositories, sorted by last updated
-          const { data: repos } = await octokit.rest.repos.listForUser({
+          const { data: repos } = await github.rest.repos.listForUser({
             username: '0xb0rn3',
             sort: 'updated',
             direction: 'desc',
@@ -51,30 +36,30 @@ jobs:
             .slice(0, 3);
           
           // Generate the project cards HTML
-          let projectsHtml = '<div align="center">\n\n### Recent Activity\n\n<table>\n<tr>\n';
+          let projectsHtml = '<div align="center">\\n\\n### Recent Activity\\n\\n<table>\\n<tr>\\n';
           
           for (let i = 0; i < Math.min(latestRepos.length, 3); i++) {
             const repo = latestRepos[i];
-            projectsHtml += `<td align="center">
-<a href="${repo.html_url}">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=${repo.name}&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C7B95&text_color=8B949E" alt="${repo.name}"/>
-</a>
-</td>`;
+            projectsHtml += '<td align="center">\\n' +
+              '<a href="' + repo.html_url + '">\\n' +
+              '<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=' + repo.name + 
+              '&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C7B95&text_color=8B949E" alt="' + repo.name + '"/>\\n' +
+              '</a>\\n</td>';
             
-            if (i === 1) projectsHtml += '\n</tr>\n<tr>\n';
+            if (i === 1) projectsHtml += '\\n</tr>\\n<tr>\\n';
           }
           
-          projectsHtml += '\n</tr>\n<tr>\n';
+          projectsHtml += '\\n</tr>\\n<tr>\\n';
           
           // Add commit status badges
           for (let i = 0; i < Math.min(latestRepos.length, 3); i++) {
             const repo = latestRepos[i];
-            projectsHtml += `<td align="center">
-<img src="https://img.shields.io/github/last-commit/0xb0rn3/${repo.name}?style=flat-square&color=6C7B95&bg_color=0D1117" alt="Last Commit"/>
-</td>`;
+            projectsHtml += '<td align="center">\\n' +
+              '<img src="https://img.shields.io/github/last-commit/0xb0rn3/' + repo.name + 
+              '?style=flat-square&color=6C7B95&bg_color=0D1117" alt="Last Commit"/>\\n</td>';
           }
           
-          projectsHtml += '\n</tr>\n</table>\n\n</div>';
+          projectsHtml += '\\n</tr>\\n</table>\\n\\n</div>';
           
           // Read current README
           let readme = fs.readFileSync('README.md', 'utf8');
@@ -90,7 +75,7 @@ jobs:
             const before = readme.substring(0, startIndex + startMarker.length);
             const after = readme.substring(endIndex);
             
-            readme = before + '\n' + projectsHtml + '\n' + after;
+            readme = before + '\\n' + projectsHtml + '\\n' + after;
             
             fs.writeFileSync('README.md', readme);
           }
