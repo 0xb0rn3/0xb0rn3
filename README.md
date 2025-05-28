@@ -65,37 +65,7 @@ My Linux expertise encompasses everything from kernel-level security mechanism i
 
 ## 🚀 Featured Security Projects
 
-<!-- LATEST-PROJECTS-START -->
-Below are my three latest projects you might be interested in checking out 
-
-<div align="center">
-
-### Recent Activity
-
-<table>
-<tr>
-<td align="center">
-<a href="https://github.com/0xb0rn3/r3cond0g">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=r3cond0g&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C7B95&text_color=8B949E" alt="r3cond0g"/>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/0xb0rn3/krilin">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=krilin&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C7B95&text_color=8B949E" alt="krilin"/>
-</a>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/github/last-commit/0xb0rn3/r3cond0g?style=flat-square&color=6C7B95&bg_color=0D1117" alt="Last Commit"/>
-</td><td align="center">
-<img src="https://img.shields.io/github/last-commit/0xb0rn3/krilin?style=flat-square&color=6C7B95&bg_color=0D1117" alt="Last Commit"/>
-</td>
-</tr>
-</table>
-
-</div>
-<!-- LATEST-PROJECTS-END -->
+<!-- LATEST-PROJECTS-START -->\nBelow are my three latest projects you might be interested in checking out \n\n<div align="center">\n\n### Recent Activity\n\n<table>\n<tr>\n<td align="center">\n<a href="https://github.com/0xb0rn3/r3cond0g">\n<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=r3cond0g&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C7B95&text_color=8B949E" alt="r3cond0g"/>\n</a>\n</td>\n<td align="center">\n<a href="https://github.com/0xb0rn3/krilin">\n<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=krilin&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C7B95&text_color=8B949E" alt="krilin"/>\n</a>\n</td>\n</tr>\n<tr>\n<td align="center">\n<img src="https://img.shields.io/github/last-commit/0xb0rn3/r3cond0g?style=flat-square&color=6C7B95&bg_color=0D1117" alt="Last Commit"/>\n</td><td align="center">\n<img src="https://img.shields.io/github/last-commit/0xb0rn3/krilin?style=flat-square&color=6C7B95&bg_color=0D1117" alt="Last Commit"/>\n</td>\n</tr>\n</table>\n\n</div>\n<!-- LATEST-PROJECTS-END -->
 
 Each security tool I develop addresses specific operational challenges encountered during real-world security assessments and defensive operations. Rather than building tools that simply demonstrate technical capabilities, I focus on solving problems that directly impact the effectiveness and efficiency of security professionals working in operational environments.
 
