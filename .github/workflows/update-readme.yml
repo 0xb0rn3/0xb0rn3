@@ -15,7 +15,6 @@ on:
 permissions:
   contents: write    # Allows modifying files and pushing commits
   actions: read      # Allows reading workflow information
-  metadata: read     # Allows reading repository metadata
 
 jobs:
   update-readme:
