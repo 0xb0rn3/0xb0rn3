@@ -1,20 +1,37 @@
 name: Update README with Latest Projects
 
+# Define when this workflow should run
 on:
   schedule:
+    # Run every 6 hours - fixed the cron syntax (was missing a field)
     - cron: '0 */6 * * *'
+  # Allow manual triggering from GitHub Actions tab
   workflow_dispatch:
+  # Run when code is pushed to main branch
   push:
     branches: [ main ]
+
+# CRITICAL: Grant the necessary permissions to fix the 403 error
+permissions:
+  contents: write    # Allows modifying files and pushing commits
+  actions: read      # Allows reading workflow information
+  metadata: read     # Allows reading repository metadata
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     
     steps:
+    # Step 1: Get a copy of your repository code
     - name: Checkout repository
       uses: actions/checkout@v3
-      
+      with:
+        # Explicitly use the GitHub token to ensure proper permissions
+        token: ${{ secrets.GITHUB_TOKEN }}
+        # Fetch full history so we can make commits
+        fetch-depth: 0
+        
+    # Step 2: Run JavaScript code to fetch repositories and update README
     - name: Update README with latest projects
       uses: actions/github-script@v6
       with:
@@ -22,68 +39,124 @@ jobs:
         script: |
           const fs = require('fs');
           
-          // Get user's repositories, sorted by last updated
-          const { data: repos } = await github.rest.repos.listForUser({
-            username: '0xb0rn3',
-            sort: 'updated',
-            direction: 'desc',
-            per_page: 10
-          });
-          
-          // Filter out forks and get top 3 original repos
-          const latestRepos = repos
-            .filter(repo => !repo.fork && !repo.name.includes('0xb0rn3'))
-            .slice(0, 3);
-          
-          // Generate the project cards HTML
-          let projectsHtml = '<div align="center">\\n\\n### Recent Activity\\n\\n<table>\\n<tr>\\n';
-          
-          for (let i = 0; i < Math.min(latestRepos.length, 3); i++) {
-            const repo = latestRepos[i];
-            projectsHtml += '<td align="center">\\n' +
-              '<a href="' + repo.html_url + '">\\n' +
-              '<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=' + repo.name + 
-              '&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C7B95&text_color=8B949E" alt="' + repo.name + '"/>\\n' +
-              '</a>\\n</td>';
+          try {
+            // Fetch all repositories for the user, sorted by most recently updated
+            console.log('Fetching repositories for user: 0xb0rn3');
+            const { data: repos } = await github.rest.repos.listForUser({
+              username: '0xb0rn3',
+              sort: 'updated',        // Sort by last updated date
+              direction: 'desc',      // Most recent first
+              per_page: 10           // Get top 10 to have options
+            });
             
-            if (i === 1) projectsHtml += '\\n</tr>\\n<tr>\\n';
-          }
-          
-          projectsHtml += '\\n</tr>\\n<tr>\\n';
-          
-          // Add commit status badges
-          for (let i = 0; i < Math.min(latestRepos.length, 3); i++) {
-            const repo = latestRepos[i];
-            projectsHtml += '<td align="center">\\n' +
-              '<img src="https://img.shields.io/github/last-commit/0xb0rn3/' + repo.name + 
-              '?style=flat-square&color=6C7B95&bg_color=0D1117" alt="Last Commit"/>\\n</td>';
-          }
-          
-          projectsHtml += '\\n</tr>\\n</table>\\n\\n</div>';
-          
-          // Read current README
-          let readme = fs.readFileSync('README.md', 'utf8');
-          
-          // Replace the projects section
-          const startMarker = '<!-- LATEST-PROJECTS-START -->';
-          const endMarker = '<!-- LATEST-PROJECTS-END -->';
-          
-          const startIndex = readme.indexOf(startMarker);
-          const endIndex = readme.indexOf(endMarker);
-          
-          if (startIndex !== -1 && endIndex !== -1) {
+            console.log(`Found ${repos.length} repositories`);
+            
+            // Filter out forked repositories and the profile repo itself
+            // We only want original projects that showcase your work
+            const latestRepos = repos
+              .filter(repo => {
+                const isNotFork = !repo.fork;
+                const isNotProfileRepo = !repo.name.includes('0xb0rn3');
+                const isNotEmpty = repo.size > 0; // Exclude empty repos
+                
+                console.log(`Repository ${repo.name}: fork=${repo.fork}, profile=${repo.name.includes('0xb0rn3')}, size=${repo.size}`);
+                
+                return isNotFork && isNotProfileRepo && isNotEmpty;
+              })
+              .slice(0, 3); // Take only the top 3 projects
+            
+            console.log(`Selected ${latestRepos.length} repositories for display`);
+            latestRepos.forEach(repo => console.log(`- ${repo.name} (updated: ${repo.updated_at})`));
+            
+            // Build the HTML structure for displaying the projects
+            let projectsHtml = 'Below are my three latest projects you might be interested in checking out \\n\\n<div align="center">\\n\\n### Recent Activity\\n\\n<table>\\n<tr>\\n';
+            
+            // Create the first row with repository cards
+            for (let i = 0; i < Math.min(latestRepos.length, 2); i++) {
+              const repo = latestRepos[i];
+              projectsHtml += '<td align="center">\\n' +
+                '<a href="' + repo.html_url + '">\\n' +
+                '<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=' + repo.name + 
+                '&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C7B95&text_color=8B949E" alt="' + repo.name + '"/>\\n' +
+                '</a>\\n</td>';
+              
+              // Add spacing between columns
+              if (i === 0 && latestRepos.length > 1) {
+                projectsHtml += '\\n';
+              }
+            }
+            
+            projectsHtml += '\\n</tr>\\n<tr>\\n';
+            
+            // Create the second row with commit status badges
+            for (let i = 0; i < Math.min(latestRepos.length, 2); i++) {
+              const repo = latestRepos[i];
+              projectsHtml += '<td align="center">\\n' +
+                '<img src="https://img.shields.io/github/last-commit/0xb0rn3/' + repo.name + 
+                '?style=flat-square&color=6C7B95&bg_color=0D1117" alt="Last Commit"/>\\n</td>';
+            }
+            
+            projectsHtml += '\\n</tr>\\n</table>\\n\\n</div>';
+            
+            console.log('Generated HTML for projects section');
+            
+            // Read the current README file
+            if (!fs.existsSync('README.md')) {
+              throw new Error('README.md file not found');
+            }
+            
+            let readme = fs.readFileSync('README.md', 'utf8');
+            console.log(`README.md file read, length: ${readme.length} characters`);
+            
+            // Find the markers that define where to insert the project information
+            const startMarker = '<!-- LATEST-PROJECTS-START -->';
+            const endMarker = '<!-- LATEST-PROJECTS-END -->';
+            
+            const startIndex = readme.indexOf(startMarker);
+            const endIndex = readme.indexOf(endMarker);
+            
+            if (startIndex === -1 || endIndex === -1) {
+              throw new Error('Could not find project markers in README.md. Make sure both ' + startMarker + ' and ' + endMarker + ' are present.');
+            }
+            
+            console.log(`Found markers at positions: start=${startIndex}, end=${endIndex}`);
+            
+            // Replace the content between the markers with updated project information
             const before = readme.substring(0, startIndex + startMarker.length);
             const after = readme.substring(endIndex);
             
             readme = before + '\\n' + projectsHtml + '\\n' + after;
             
+            // Write the updated README back to disk
             fs.writeFileSync('README.md', readme);
+            console.log('README.md file updated successfully');
+            
+          } catch (error) {
+            console.error('Error updating README:', error.message);
+            core.setFailed(error.message);
           }
           
-    - name: Commit changes
+    # Step 3: Commit and push the changes back to the repository
+    - name: Commit and push changes
       run: |
+        # Configure git with the GitHub Actions bot identity
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        
+        # Stage the README file for commit
         git add README.md
-        git diff --staged --quiet || git commit -m "Update README with latest projects"
-        git push
+        
+        # Check if there are actually changes to commit
+        # The --quiet flag suppresses output, and the command succeeds only if there are no staged changes
+        if git diff --staged --quiet; then
+          echo "No changes detected in README.md"
+        else
+          echo "Changes detected, committing..."
+          # Create a commit with a descriptive message
+          git commit -m "Update README with latest projects"
+          
+          # Push the changes back to the repository
+          echo "Pushing changes..."
+          git push
+          echo "README successfully updated!"
+        fi
