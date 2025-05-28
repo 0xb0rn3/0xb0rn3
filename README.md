@@ -41,7 +41,6 @@ Building security tools that solve real problems. No fluff, just practical autom
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8)
-![Rust](https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=CE422B)
 ![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
 
 ### Infrastructure
@@ -50,11 +49,6 @@ Building security tools that solve real problems. No fluff, just practical autom
 ![Kubernetes](https://img.shields.io/badge/K8s-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 ![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
-### Security Tools
-![Kali](https://img.shields.io/badge/Kali-0D1117?style=for-the-badge&logo=kalilinux&logoColor=557C94)
-![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=2596CD)
-![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
-![Burp](https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=FF6633)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xb0rn3&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C7B95&text_color=8B949E&langs_count=6&custom_title=Code%20Distribution" alt="Languages"/>
 
@@ -80,7 +74,7 @@ Building security tools that solve real problems. No fluff, just practical autom
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=krilin&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C7B95&text_color=8B949E" alt="krilin"/>
 </a>
 <br>
-<code>Threat Intelligence Platform</code>
+<code>Pentesting UTILITY</code>
 </td>
 </tr>
 </table>
