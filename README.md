@@ -19,8 +19,8 @@ Building security tools that matter. Every project serves a purpose, solves a re
 ## Latest Projects
 
 <!-- LATEST-PROJECTS-START -->
-*This section will automatically update with your three most recent repositories*
 
+Below are my three latest projects you might be interested in checking out 
 <div align="center">
 
 ### Recent Activity
