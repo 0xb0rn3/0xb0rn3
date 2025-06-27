@@ -65,19 +65,39 @@
 
 ## 🚀 Featured Security Projects
 
-<!-- START PROJECTS -->
+<!-- LATEST-PROJECTS-START -->
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="50%">
-<a href="https://github.com/0xb0rn3/r3cond0g">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=r3cond0g&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="r3cond0g"/>
+<a href="https://github.com/0xb0rn3/fastdl">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=fastdl&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="fastdl"/>
 </a>
 <br>
-<sub><b>🔍 Advanced Reconnaissance Framework</b></sub>
+<sub><b>⚡ Fast Download Manager</b></sub>
 <br>
-<sub>Go-based automation for comprehensive target analysis</sub>
+<sub>High-performance download automation tool</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/0xb0rn3/fetch-tools">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=fetch-tools&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="fetch-tools"/>
+</a>
+<br>
+<sub><b>🔍 Data Retrieval Utilities</b></sub>
+<br>
+<sub>Comprehensive data fetching and processing tools</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/0xb0rn3/kygox">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=kygox&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="kygox"/>
+</a>
+<br>
+<sub><b>🛡️ Security Analysis Framework</b></sub>
+<br>
+<sub>Advanced security assessment and analysis tools</sub>
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/0xb0rn3/krilin">
@@ -89,30 +109,10 @@
 <sub>Python toolkit for ethical hacking operations</sub>
 </td>
 </tr>
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/0xb0rn3/qemu-pentest">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=qemu-pentest&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="qemu-pentest"/>
-</a>
-<br>
-<sub><b>🖥️ Virtualized Lab Environment</b></sub>
-<br>
-<sub>Automated VM setup for penetration testing</sub>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/0xb0rn3/sysopt">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=sysopt&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="sysopt"/>
-</a>
-<br>
-<sub><b>🛡️ System Optimization & Hardening</b></sub>
-<br>
-<sub>Shell scripts for security-focused system tuning</sub>
-</td>
-</tr>
 </table>
 
 </div>
-<!-- END PROJECTS -->
+<!-- LATEST-PROJECTS-END -->
 
 ---
 
