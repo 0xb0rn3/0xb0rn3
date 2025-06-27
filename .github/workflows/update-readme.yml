@@ -108,8 +108,97 @@ jobs:
                 'recent_activity': recent_repos[:6]  # Top 6 recently updated
             }
         
-        def update_readme_content(stats):
-            """Update README.md with fresh statistics"""
+        def generate_projects_html(recent_repos):
+            """Generate HTML for the projects section based on recent repositories"""
+            projects_html = """<div align="center">
+
+<table>"""
+            
+            # Process repositories in pairs for table layout
+            for i in range(0, len(recent_repos), 2):
+                projects_html += "\n<tr>"
+                
+                # First repository in the pair
+                repo = recent_repos[i]
+                description = get_repo_description(repo['name'])
+                projects_html += f"""
+<td align="center" width="50%">
+<a href="https://github.com/0xb0rn3/{repo['name']}">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo={repo['name']}&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="{repo['name']}"/>
+</a>
+<br>
+<sub><b>{description['title']}</b></sub>
+<br>
+<sub>{description['subtitle']}</sub>
+</td>"""
+                
+                # Second repository in the pair (if exists)
+                if i + 1 < len(recent_repos):
+                    repo = recent_repos[i + 1]
+                    description = get_repo_description(repo['name'])
+                    projects_html += f"""
+<td align="center" width="50%">
+<a href="https://github.com/0xb0rn3/{repo['name']}">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo={repo['name']}&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="{repo['name']}"/>
+</a>
+<br>
+<sub><b>{description['title']}</b></sub>
+<br>
+<sub>{description['subtitle']}</sub>
+</td>"""
+                else:
+                    # Fill empty cell if odd number of repos
+                    projects_html += "\n<td align=\"center\" width=\"50%\"></td>"
+                
+                projects_html += "\n</tr>"
+            
+            projects_html += """
+</table>
+
+</div>"""
+            
+            return projects_html
+        
+        def get_repo_description(repo_name):
+            """Get appropriate description for each repository based on its purpose"""
+            descriptions = {
+                'fastdl': {
+                    'title': '⚡ Fast Download Manager',
+                    'subtitle': 'High-performance download automation tool'
+                },
+                'fetch-tools': {
+                    'title': '🔍 Data Retrieval Utilities', 
+                    'subtitle': 'Comprehensive data fetching and processing tools'
+                },
+                'kygox': {
+                    'title': '🛡️ Security Analysis Framework',
+                    'subtitle': 'Advanced security assessment and analysis tools'
+                },
+                'krilin': {
+                    'title': '⚔️ Penetration Testing Suite',
+                    'subtitle': 'Python toolkit for ethical hacking operations'
+                },
+                'wallpimp': {
+                    'title': '🎨 Wallpaper Management Tool',
+                    'subtitle': 'Automated wallpaper customization utility'
+                },
+                'gre3hn': {
+                    'title': '🌿 Green Hat Security Tool',
+                    'subtitle': 'Ethical hacking and security research utilities'
+                }
+            }
+            
+            # Return specific description if available, otherwise generate generic one
+            if repo_name in descriptions:
+                return descriptions[repo_name]
+            else:
+                return {
+                    'title': f'🔧 {repo_name.title()}',
+                    'subtitle': 'Security and automation tooling'
+                }
+        
+        def update_readme_content(stats, repos_data):
+            """Update README.md with fresh statistics and latest projects"""
             with open('README.md', 'r', encoding='utf-8') as f:
                 content = f.read()
             
@@ -121,6 +210,12 @@ jobs:
             stats_pattern = r'<!-- START STATS -->.*?<!-- END STATS -->'
             new_stats = f"<!-- START STATS -->\n{stats_section}\n<!-- END STATS -->"
             content = re.sub(stats_pattern, new_stats, content, flags=re.DOTALL)
+            
+            # Generate latest projects section
+            projects_html = generate_projects_html(repos_data[:4])  # Top 4 most recent repos
+            projects_pattern = r'<!-- LATEST-PROJECTS-START -->.*?<!-- LATEST-PROJECTS-END -->'
+            new_projects = f"<!-- LATEST-PROJECTS-START -->\n{projects_html}\n<!-- LATEST-PROJECTS-END -->"
+            content = re.sub(projects_pattern, new_projects, content, flags=re.DOTALL)
             
             # Update footer with current date
             current_date = datetime.now().strftime('%B %Y')
@@ -156,7 +251,7 @@ jobs:
                 stats = calculate_stats(repos_data)
                 
                 print("📝 Updating README.md...")
-                if update_readme_content(stats):
+                if update_readme_content(stats, repos_data):
                     print("✅ Profile README updated successfully!")
                     
                     # Output summary for GitHub Actions
