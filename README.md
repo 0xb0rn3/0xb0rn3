@@ -1,154 +1,169 @@
 <div align="center">
 
-# 0xb0rn3
+# 0xb0rn3 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=20&duration=2500&pause=800&color=6C7B95&center=true&vCenter=true&width=600&lines=Security+Engineer+%26+Researcher;Cybersecurity+Automation+Architect;Offensive+Security+Tool+Developer;System+Hardening+Specialist;Threat+Intelligence+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Security+Engineer+%26+Threat+Researcher;Cybersecurity+Automation+Architect;Red+Team+Tool+Developer;OSINT+%26+Reconnaissance+Specialist;Open+Source+Security+Advocate)](https://git.io/typing-svg)
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xb0rn3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C7B95&icon_color=58A6FF&text_color=8B949E&count_private=true&custom_title=Security%20Engineering%20Stats" alt="Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xb0rn3&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C7B95&ring=58A6FF&fire=58A6FF&currStreakLabel=6C7B95" alt="Streak" width="48%" />
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
 
 </div>
 
 ---
 
-## 🎯 What I Do
+## 🎯 Mission Statement
 
-Building security tools that solve real problems. No fluff, just practical automation that makes security teams more effective.
+> **Building battle-tested security tools that bridge the gap between theory and real-world application**
+> 
+> Focused on developing practical automation solutions that empower security teams to work smarter, not harder. Every tool is built with field experience in mind.
+
+---
+
+## 📊 Real-Time Profile Analytics
 
 <div align="center">
 
-```ascii
-┌─────────────────────────────────────────────────────────────┐
-│  🔍 OSINT Tools     │  🛡️  Defense Auto   │  ⚔️  Red Team     │
-│  ├─ Reconnaissance  │  ├─ Threat Intel    │  ├─ Payload Gen   │
-│  ├─ Data Mining     │  ├─ Incident Resp   │  ├─ Exploit Dev    │
-│  └─ Target Profiling│  └─ System Hardening│  └─ Post-Exploit  │
-└─────────────────────────────────────────────────────────────┘
-```
+<!-- START METRICS -->
+<img src="https://github-readme-stats.vercel.app/api?username=0xb0rn3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true&custom_title=Security%20Engineering%20Metrics" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xb0rn3&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFD700&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xb0rn3&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&custom_title=Technology%20Arsenal&hide=html,css,scss" alt="Top Languages" width="40%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xb0rn3&theme=tokyonight&utcOffset=3" alt="Productive Time" width="40%" />
+
+<!-- END METRICS -->
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Stack & Expertise
 
 <div align="center">
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
+### Core Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### Infrastructure
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/K8s-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+### Security & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xb0rn3&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C7B95&text_color=8B949E&langs_count=6&custom_title=Code%20Distribution" alt="Languages"/>
+### Specialized Tools
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Featured Security Projects
 
+<!-- START PROJECTS -->
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="50%">
 <a href="https://github.com/0xb0rn3/r3cond0g">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=r3cond0g&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C7B95&text_color=8B949E" alt="r3cond0g"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=r3cond0g&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="r3cond0g"/>
 </a>
 <br>
-<code>Advanced Recon Automation</code>
+<sub><b>🔍 Advanced Reconnaissance Framework</b></sub>
+<br>
+<sub>Go-based automation for comprehensive target analysis</sub>
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/0xb0rn3/krilin">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=krilin&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C7B95&text_color=8B949E" alt="krilin"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=krilin&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="krilin"/>
 </a>
 <br>
-<code>Pentesting UTILITY</code>
+<sub><b>⚔️ Penetration Testing Suite</b></sub>
+<br>
+<sub>Python toolkit for ethical hacking operations</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/0xb0rn3/qemu-pentest">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=qemu-pentest&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="qemu-pentest"/>
+</a>
+<br>
+<sub><b>🖥️ Virtualized Lab Environment</b></sub>
+<br>
+<sub>Automated VM setup for penetration testing</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/0xb0rn3/sysopt">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=sysopt&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="sysopt"/>
+</a>
+<br>
+<sub><b>🛡️ System Optimization & Hardening</b></sub>
+<br>
+<sub>Shell scripts for security-focused system tuning</sub>
 </td>
 </tr>
 </table>
 
 </div>
+<!-- END PROJECTS -->
 
 ---
 
-## 📊 Activity & Performance
+## 📈 Development Activity & Insights
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xb0rn3&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C7B95&line=58A6FF&point=8B949E&area=true&custom_title=Development%20Activity" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xb0rn3&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFD700&area=true&area_color=58A6FF&custom_title=Security%20Tool%20Development%20Timeline" alt="Activity Graph" width="100%"/>
 
-</div>
-
-<div align="center">
-
-### Current Focus Areas
-
-```mermaid
-graph LR
-    A[🔍 OSINT] --> D[🤖 Automation]
-    B[🛡️ Defense] --> D
-    C[⚔️ Red Team] --> D
-    D --> E[🚀 Production Tools]
-    
-    style A fill:#0D1117,stroke:#6C7B95,color:#8B949E
-    style B fill:#0D1117,stroke:#6C7B95,color:#8B949E
-    style C fill:#0D1117,stroke:#6C7B95,color:#8B949E
-    style D fill:#0D1117,stroke:#58A6FF,color:#58A6FF
-    style E fill:#0D1117,stroke:#FFD43B,color:#FFD43B
-```
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xb0rn3&theme=tokyonight" alt="Profile Summary" width="100%"/>
 
 </div>
 
 ---
 
-## 🎯 Skills Breakdown
+## 🎯 Cybersecurity Specializations
 
 <div align="center">
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td align="center" width="33%">
 
-### 🔍 **Reconnaissance**
+### 🔍 **Reconnaissance & OSINT**
 ```
-Web Scraping      ████████████ 95%
-OSINT Analysis    ███████████░ 90%
-Social Engineering███████████░ 85%
-DNS Enumeration   ████████████ 92%
-```
-
-</td>
-<td valign="top" width="33%">
-
-### 🛡️ **Defense**
-```
-Incident Response ███████████░ 88%
-Threat Hunting    ████████████ 90%
-System Hardening ███████████░ 87%
-Malware Analysis  ██████████░░ 82%
+Advanced Web Scraping    ████████████ 95%
+Social Media Intel       ███████████░ 88%
+Domain Analysis          ████████████ 92%
+Infrastructure Mapping   ████████████ 90%
 ```
 
 </td>
-<td valign="top" width="33%">
+<td align="center" width="33%">
 
-### ⚔️ **Offensive**
+### 🛡️ **Defensive Security**
 ```
-Exploit Development██████████░░ 85%
-Post-Exploitation ███████████░ 88%
-Web App Testing   ████████████ 93%
-Network Pentesting███████████░ 89%
+Incident Response        ███████████░ 85%
+Threat Intelligence      ████████████ 91%
+System Hardening         ███████████░ 87%
+Malware Analysis         ██████████░░ 78%
+```
+
+</td>
+<td align="center" width="33%">
+
+### ⚔️ **Offensive Security**
+```
+Exploit Development      ██████████░░ 82%
+Web Application Testing  ████████████ 94%
+Network Penetration      ███████████░ 89%
+Social Engineering       ████████████ 91%
 ```
 
 </td>
@@ -159,14 +174,35 @@ Network Pentesting███████████░ 89%
 
 ---
 
-## 🌐 Connect & Collaborate
+## 🏆 Achievements & Recognition
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0D1117?style=for-the-badge&logoColor=6C7B95&labelColor=1a1e22)](https://0xb0rn3.github.io)
-[![Email](https://img.shields.io/badge/📧_Contact-0D1117?style=for-the-badge&logoColor=6C7B95&labelColor=1a1e22)](mailto:q4n0@proton.me)
-[![Twitter](https://img.shields.io/badge/🐦_Updates-0D1117?style=for-the-badge&logoColor=6C7B95&labelColor=1a1e22)](https://x.com/0xbv1)
-[![GitHub](https://img.shields.io/badge/⚡_Code-0D1117?style=for-the-badge&logoColor=6C7B95&labelColor=1a1e22)](https://github.com/0xb0rn3)
+<img src="https://github-profile-trophy.vercel.app/?username=0xb0rn3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+
+### 📊 Repository Statistics
+<!-- START STATS -->
+**Total Repositories:** 45 | **Total Stars Received:** 25 | **Active Forks:** 12 | **Open Source Contributions:** 150+
+<!-- END STATS -->
+
+### 🔥 Recent Achievements
+- 🎯 Developed 15+ security automation tools
+- 🛡️ Contributed to major open-source security projects
+- ⚔️ Created comprehensive penetration testing frameworks
+- 🔍 Built advanced OSINT collection pipelines
+
+</div>
+
+---
+
+## 🌐 Security Community & Connections
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Security_Portfolio-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=21262D)](https://0xb0rn3.github.io)
+[![Email](https://img.shields.io/badge/📧_Secure_Contact-0D1117?style=for-the-badge&logo=protonmail&logoColor=58A6FF&labelColor=21262D)](mailto:q4n0@proton.me)
+[![Twitter](https://img.shields.io/badge/🐦_Security_Updates-0D1117?style=for-the-badge&logo=x&logoColor=58A6FF&labelColor=21262D)](https://x.com/0xbv1)
+[![LinkedIn](https://img.shields.io/badge/💼_Professional-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=21262D)](https://linkedin.com/in/0xb0rn3)
 
 </div>
 
@@ -174,12 +210,43 @@ Network Pentesting███████████░ 89%
 
 <div align="center">
 
-### 🔥 Latest Achievement
+### 🎨 Security Architecture Philosophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=0xb0rn3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="Trophies"/>
+```mermaid
+graph TD
+    A[🔍 Intelligence Gathering] --> B[🎯 Target Analysis]
+    B --> C[⚔️ Exploitation Strategy]
+    C --> D[🛡️ Defense Recommendations]
+    D --> E[🤖 Automation Implementation]
+    E --> F[📊 Continuous Monitoring]
+    F --> A
+    
+    style A fill:#0D1117,stroke:#58A6FF,stroke-width:2px,color:#C9D1D9
+    style B fill:#0D1117,stroke:#58A6FF,stroke-width:2px,color:#C9D1D9
+    style C fill:#0D1117,stroke:#FF6B6B,stroke-width:2px,color:#C9D1D9
+    style D fill:#0D1117,stroke:#4ECDC4,stroke-width:2px,color:#C9D1D9
+    style E fill:#0D1117,stroke:#FFD700,stroke-width:2px,color:#C9D1D9
+    style F fill:#0D1117,stroke:#58A6FF,stroke-width:2px,color:#C9D1D9
+```
+
+</div>
 
 ---
 
-<sub>⚡ **Building security tools that actually work in the real world**</sub>
+<div align="center">
+
+### 💡 Core Security Principles
+
+**"Security is not a product, but a process"** - Every tool I build follows this philosophy
+
+🔒 **Defense in Depth** | 🎯 **Threat-Informed Defense** | 🤖 **Automation First** | 📊 **Data-Driven Decisions**
+
+---
+
+<!-- START FOOTER -->
+<sub>🔥 **Last Updated:** December 2024 | ⚡ **Building the future of security automation** | 🛡️ **Securing the digital world, one tool at a time**</sub>
+
+<img src="https://komarev.com/ghpvc/?username=0xb0rn3&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+<!-- END FOOTER -->
 
 </div>
