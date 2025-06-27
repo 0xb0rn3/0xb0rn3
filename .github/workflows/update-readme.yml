@@ -112,7 +112,7 @@ jobs:
             """Generate HTML for the projects section based on recent repositories"""
             projects_html = """<div align="center">
 
-<table>"""
+        <table>"""
             
             # Process repositories in pairs for table layout
             for i in range(0, len(recent_repos), 2):
@@ -122,30 +122,30 @@ jobs:
                 repo = recent_repos[i]
                 description = get_repo_description(repo['name'])
                 projects_html += f"""
-<td align="center" width="50%">
-<a href="https://github.com/0xb0rn3/{repo['name']}">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo={repo['name']}&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="{repo['name']}"/>
-</a>
-<br>
-<sub><b>{description['title']}</b></sub>
-<br>
-<sub>{description['subtitle']}</sub>
-</td>"""
+        <td align="center" width="50%">
+        <a href="https://github.com/0xb0rn3/{repo['name']}">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo={repo['name']}&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="{repo['name']}"/>
+        </a>
+        <br>
+        <sub><b>{description['title']}</b></sub>
+        <br>
+        <sub>{description['subtitle']}</sub>
+        </td>"""
                 
                 # Second repository in the pair (if exists)
                 if i + 1 < len(recent_repos):
                     repo = recent_repos[i + 1]
                     description = get_repo_description(repo['name'])
                     projects_html += f"""
-<td align="center" width="50%">
-<a href="https://github.com/0xb0rn3/{repo['name']}">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo={repo['name']}&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="{repo['name']}"/>
-</a>
-<br>
-<sub><b>{description['title']}</b></sub>
-<br>
-<sub>{description['subtitle']}</sub>
-</td>"""
+        <td align="center" width="50%">
+        <a href="https://github.com/0xb0rn3/{repo['name']}">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo={repo['name']}&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="{repo['name']}"/>
+        </a>
+        <br>
+        <sub><b>{description['title']}</b></sub>
+        <br>
+        <sub>{description['subtitle']}</sub>
+        </td>"""
                 else:
                     # Fill empty cell if odd number of repos
                     projects_html += "\n<td align=\"center\" width=\"50%\"></td>"
@@ -153,9 +153,9 @@ jobs:
                 projects_html += "\n</tr>"
             
             projects_html += """
-</table>
+        </table>
 
-</div>"""
+        </div>"""
             
             return projects_html
         
@@ -221,10 +221,10 @@ jobs:
             current_date = datetime.now().strftime('%B %Y')
             footer_pattern = r'<!-- START FOOTER -->.*?<!-- END FOOTER -->'
             new_footer = f"""<!-- START FOOTER -->
-<sub>🔥 **Last Updated:** {current_date} | ⚡ **Building the future of security automation** | 🛡️ **Securing the digital world, one tool at a time**</sub>
+        <sub>🔥 **Last Updated:** {current_date} | ⚡ **Building the future of security automation** | 🛡️ **Securing the digital world, one tool at a time**</sub>
 
-<img src="https://komarev.com/ghpvc/?username=0xb0rn3&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views"/>
-<!-- END FOOTER -->"""
+        <img src="https://komarev.com/ghpvc/?username=0xb0rn3&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+        <!-- END FOOTER -->"""
             content = re.sub(footer_pattern, new_footer, content, flags=re.DOTALL)
             
             # Write updated content
