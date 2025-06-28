@@ -1,6 +1,6 @@
 <div align="center">
 
-# 0xb0rn3 
+# 0xb0rn3 | シェルショック 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Security+Engineer+%26+Threat+Researcher;Cybersecurity+Automation+Architect;Red+Team+Tool+Developer;OSINT+%26+Reconnaissance+Specialist;Open+Source+Security+Advocate)](https://git.io/typing-svg)
 
