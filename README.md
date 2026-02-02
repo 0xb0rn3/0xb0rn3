@@ -5,8 +5,15 @@
 
 <br>
 
-<!-- Profile Section -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Where+theory+ends%2C+my+tools+take+over;Building+security+solutions+that+matter;Automation+%E2%80%A2+Precision+%E2%80%A2+Execution" alt="Typing SVG" />
+<!-- Animated Typing Effect -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=700&lines=Where+theory+ends%2C+my+tools+take+over;Building+security+solutions+that+matter;Automation+%E2%80%A2+Precision+%E2%80%A2+Real-world+execution;45%2B+repositories+%7C+150%2B+contributions" alt="Typing SVG" />
+
+<br><br>
+
+<!-- Profile Image with Animation -->
+<a href="https://github.com/0xb0rn3">
+  <img src="https://github.com/0xb0rn3.png" width="180" style="border-radius: 50%; border: 3px solid #ffffff;" alt="0xb0rn3"/>
+</a>
 
 </div>
 
@@ -22,22 +29,11 @@
 
 <br>
 
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Security_Researcher-ffffff?style=for-the-badge&logo=hackaday&logoColor=000000&labelColor=000000" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/CTF_Player-ffffff?style=for-the-badge&logo=hackthebox&logoColor=000000&labelColor=000000" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Linux_Advocate-ffffff?style=for-the-badge&logo=linux&logoColor=000000&labelColor=000000" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/45+_Repositories-ffffff?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000" />
-</td>
-</tr>
-</table>
+<!-- Animated Status Badges -->
+<img src="https://img.shields.io/badge/🔴_LIVE-Security_Researcher-ffffff?style=for-the-badge&logo=hackaday&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/⚡_ACTIVE-CTF_Player-ffffff?style=for-the-badge&logo=hackthebox&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/🐧-Linux_Advocate-ffffff?style=for-the-badge&logo=linux&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/📦-45+_Repos-ffffff?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000" />
 
 </div>
 
@@ -53,10 +49,10 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=0xb0rn3&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&ring_color=ffffff&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=0xb0rn3&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&ring_color=ffffff&border_radius=15&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
 </td>
 <td align="center" width="50%">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=0xb0rn3&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&border_radius=10&dates=cccccc" alt="GitHub Streak"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=0xb0rn3&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&border_radius=15&dates=cccccc" alt="GitHub Streak"/>
 </td>
 </tr>
 </table>
@@ -64,13 +60,18 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xb0rn3&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&langs_count=10&border_radius=10&hide=html,css,scss" alt="Top Languages"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xb0rn3&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&langs_count=10&border_radius=15&hide=html,css,scss&card_width=445" alt="Top Languages"/>
 </td>
 <td align="center" width="50%">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=0xb0rn3&theme=high-contrast&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&border_radius=10&height=200" alt="Activity Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=0xb0rn3&theme=high-contrast&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&custom_title=Contribution%20Activity&border_radius=15&height=200" alt="Activity Graph"/>
 </td>
 </tr>
 </table>
+
+<!-- Animated Wave Stats -->
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=0xb0rn3&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&border_radius=15&layout=compact" alt="Wakatime Stats" />
 
 </div>
 
@@ -167,11 +168,11 @@
 <h3 align="center">Security Automation</h3>
 <div align="center">
 <a href="https://github.com/0xb0rn3/fastdl">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=fastdl&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&border_radius=10" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=fastdl&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&border_radius=15&description_lines_count=2" />
 </a>
 <br><br>
 <a href="https://github.com/0xb0rn3/fetch-tools">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=fetch-tools&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&border_radius=10" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=fetch-tools&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&border_radius=15&description_lines_count=2" />
 </a>
 </div>
 
@@ -181,11 +182,11 @@
 <h3 align="center">Offensive Tools</h3>
 <div align="center">
 <a href="https://github.com/0xb0rn3/kygox">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=kygox&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&border_radius=10" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=kygox&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&border_radius=15&description_lines_count=2" />
 </a>
 <br><br>
 <a href="https://github.com/0xb0rn3/krilin">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=krilin&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&border_radius=10" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=krilin&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&border_radius=15&description_lines_count=2" />
 </a>
 </div>
 
@@ -294,7 +295,13 @@
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=0xb0rn3&theme=onestar&no-frame=true&no-bg=true&row=1&column=7" />
+<!-- Animated Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=0xb0rn3&theme=onestar&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" />
+
+<br>
+
+<!-- Live Contribution Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=0xb0rn3&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&border_radius=15&hide=contribs&custom_title=Quick%20Stats&hide_rank=true" />
 
 </div>
 
@@ -377,6 +384,23 @@ graph LR
 
 <br>
 
+<!-- Animated Contribution Graph -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xb0rn3/0xb0rn3/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xb0rn3/0xb0rn3/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0xb0rn3/0xb0rn3/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
 <!-- Connect -->
 <div align="center">
 
@@ -412,16 +436,26 @@ graph LR
 <table>
 <tr>
 <td align="center">
-<img src="https://komarev.com/ghpvc/?username=0xb0rn3&style=for-the-badge&color=ffffff&label=VIEWS&labelColor=000000" />
+<img src="https://komarev.com/ghpvc/?username=0xb0rn3&style=for-the-badge&color=ffffff&label=PROFILE+VIEWS&labelColor=000000" />
 </td>
 <td align="center">
 <img src="https://img.shields.io/github/followers/0xb0rn3?style=for-the-badge&color=ffffff&labelColor=000000&label=FOLLOWERS&logo=github&logoColor=ffffff" />
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-ffffff?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/🔴_LIVE-ACTIVE-ffffff?style=for-the-badge&labelColor=000000" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/github/stars/0xb0rn3?style=for-the-badge&color=ffffff&labelColor=000000&label=TOTAL+STARS&logo=github&logoColor=ffffff" />
 </td>
 </tr>
 </table>
+
+<!-- Animated GitHub Skyline -->
+<br>
+
+<a href="https://skyline.github.com/0xb0rn3/2024">
+  <img src="https://img.shields.io/badge/View_GitHub_Skyline_2024-ffffff?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000" />
+</a>
 
 </div>
 
