@@ -13,7 +13,41 @@
 <!-- Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
+</div>
+
+<!-- Mission Statement -->
 <div align="center">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" alt=""/> MISSION STATEMENT <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" alt=""/>
+
+<br>
+
+> **Where theory ends, my tools take over**
+> 
+> I design and develop cybersecurity solutions that merge technical depth with practical impact — focused on automation, precision, and real-world execution.
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00D9FF?style=for-the-badge&labelColor=0D1117&logo=statuspage&logoColor=white" />
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/MODE-OFFENSIVE-FF6B35?style=for-the-badge&labelColor=0D1117&logo=hackaday&logoColor=white" />
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/FOCUS-AUTOMATION-00D9FF?style=for-the-badge&labelColor=0D1117&logo=ansible&logoColor=white" />
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/THREAT-RESEARCH-FF6B35?style=for-the-badge&labelColor=0D1117&logo=virustotal&logoColor=white" />
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
 
 <!-- Neon Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -239,23 +273,15 @@
 
 <div align="center">
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="28"/> Reconnaissance
+### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="28"/> Reconnaissance & OSINT
 
-</div>
+**Web Scraping** • **Social Intelligence** • **Domain Analysis**  
+**Infrastructure Mapping** • **Dark Web OSINT** • **Threat Hunting**
 
-```javascript
-const recon = {
-  webScraping:    '██████████ 95%',
-  socialIntel:    '█████████░ 88%',
-  domainAnalysis: '██████████ 92%',
-  infraMapping:   '█████████░ 90%',
-  darkWebOSINT:   '████████░░ 85%',
-  threatHunting:  '█████████░ 87%'
-}
-```
+<br>
 
-<div align="center">
 <img src="https://skillicons.dev/icons?i=python,selenium,regex&theme=dark" />
+
 </div>
 
 </td>
@@ -263,23 +289,15 @@ const recon = {
 
 <div align="center">
 
-### <img src="https://user-images.githubusercontent.com/74038190/235294009-1c8b2853-2bce-4a3b-9f9f-72eaba4c5c6f.gif" width="28"/> Defense
+### <img src="https://user-images.githubusercontent.com/74038190/235294009-1c8b2853-2bce-4a3b-9f9f-72eaba4c5c6f.gif" width="28"/> Defensive Security
 
-</div>
+**Incident Response** • **Threat Intelligence** • **System Hardening**  
+**Malware Analysis** • **Digital Forensics** • **SIEM Mastery**
 
-```javascript
-const defense = {
-  incidentResponse: '█████████░ 85%',
-  threatIntel:      '██████████ 91%',
-  systemHardening:  '█████████░ 87%',
-  malwareAnalysis:  '████████░░ 78%',
-  forensics:        '█████████░ 86%',
-  SIEM_Mastery:     '████████░░ 83%'
-}
-```
+<br>
 
-<div align="center">
 <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes&theme=dark" />
+
 </div>
 
 </td>
@@ -287,23 +305,15 @@ const defense = {
 
 <div align="center">
 
-### <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="28"/> Offense
+### <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="28"/> Offensive Security
 
-</div>
+**Exploit Development** • **Web Application Testing** • **Network Penetration**  
+**Social Engineering** • **Red Team Operations** • **Zero-Day Research**
 
-```javascript
-const offense = {
-  exploitDev:     '████████░░ 82%',
-  webAppTesting:  '██████████ 94%',
-  networkPentest: '█████████░ 89%',
-  socialEng:      '██████████ 91%',
-  redTeamOps:     '█████████░ 88%',
-  zeroDay:        '████████░░ 80%'
-}
-```
+<br>
 
-<div align="center">
 <img src="https://skillicons.dev/icons?i=bash,c,go,rust&theme=dark" />
+
 </div>
 
 </td>
