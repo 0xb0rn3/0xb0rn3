@@ -28,7 +28,7 @@
 &nbsp;
 <a href="https://x.com/0xbv1"><img src="https://img.shields.io/badge/@0xbv1-1793d1?style=flat-square&logo=x&logoColor=fff&labelColor=000" /></a>
 &nbsp;
-<a href="mailto:0xb0rn3@proton.me"><img src="https://img.shields.io/badge/q4n0@proton.me-1793d1?style=flat-square&logo=protonmail&logoColor=fff&labelColor=000" /></a>
+<a href="mailto:0xb0rn3@proton.me"><img src="https://img.shields.io/badge/0xb0rn3@proton.me-1793d1?style=flat-square&logo=protonmail&logoColor=fff&labelColor=000" /></a>
 
 </div>
 
