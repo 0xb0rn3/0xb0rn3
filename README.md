@@ -15,20 +15,6 @@
 
 <br><br>
 
-<!-- Neofetch-style system info -->
-```
-  0xb0rn3@github
-  ─────────────────────
-  OS      Archcraft (Arch Linux x86_64)
-  Host    HP EliteBook 840 G6
-  Shell   zsh + custom aliases
-  DE      XFCE4 (riced)
-  RAM     32GB
-  Uptime  always online
-  Hobby   breaking boxes, building tools
-  Status  probably doing a CTF right now
-```
-
 <br>
 
 <!-- Badge Row -->
