@@ -9,7 +9,7 @@
 <br><br>
 
 <!-- Profile -->
-<a href="https://0xb0rn3.github.io">
+<a href="https://oxborn3.com">
   <img src="https://github.com/0xb0rn3.png" width="170" style="border-radius: 50%;" alt="0xb0rn3"/>
 </a>
 
@@ -18,7 +18,7 @@
 <br>
 
 <!-- Badge Row -->
-<a href="https://0xb0rn3.github.io"><img src="https://img.shields.io/badge/Portfolio-0xb0rn3.github.io-1793d1?style=flat-square&logo=github-pages&logoColor=fff&labelColor=000" /></a>
+<a href="https://oxborn3.com"><img src="https://img.shields.io/badge/Portfolio-0xb0rn3.github.io-1793d1?style=flat-square&logo=github-pages&logoColor=fff&labelColor=000" /></a>
 &nbsp;
 <img src="https://img.shields.io/badge/Arch_Linux-btw_I_use_Arch-1793d1?style=flat-square&logo=archlinux&logoColor=fff&labelColor=000" />
 &nbsp;
@@ -28,7 +28,7 @@
 &nbsp;
 <a href="https://x.com/0xbv1"><img src="https://img.shields.io/badge/@0xbv1-1793d1?style=flat-square&logo=x&logoColor=fff&labelColor=000" /></a>
 &nbsp;
-<a href="mailto:0xb0rn3@proton.me"><img src="https://img.shields.io/badge/0xb0rn3@proton.me-1793d1?style=flat-square&logo=protonmail&logoColor=fff&labelColor=000" /></a>
+<a href="mailto:contact@oxborn3.com"><img src="https://img.shields.io/badge/0xb0rn3@proton.me-1793d1?style=flat-square&logo=protonmail&logoColor=fff&labelColor=000" /></a>
 
 </div>
 
