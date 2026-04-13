@@ -1,34 +1,30 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1793d1,100:000000&height=200&section=header&text=0xb0rn3&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cyber%20Enthusiast%20%E2%80%A2%20CTF%20Addict%20%E2%80%A2%20Arch%20Linux%20User&descAlignY=58&descSize=16&descColor=cccccc"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1793d1,100:000000&height=200&section=header&text=0xb0rn3&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=sys%2Fr00t%20%E2%80%A2%20tool%20builder%20%E2%80%A2%20breaker%20of%20things&descAlignY=58&descSize=16&descColor=cccccc"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=1793D1&center=true&vCenter=true&repeat=true&width=650&lines=%24+neofetch+--ascii+%2F+0xb0rn3;%24+sudo+pacman+-Syu+%26%26+hack+the+planet;%24+cat+%2Fetc%2Fmotd+%7C+grep+%22btw+I+use+Arch%22;%24+nmap+-sV+--script+vuln+life+%2F%2F+always+scanning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=1793D1&center=true&vCenter=true&repeat=true&width=680&lines=%24+whoami+%23+hobbyist+who+can%27t+stop+building;%24+uname+-a+%23+archcraft+%7C+rt-bore+kernel;%24+ls+.%2Fprojects+%7C+wc+-l+%23+86+repos+and+counting;%24+nmap+-sV+--open+life+%2F%2F+always+scanning" alt="Typing SVG" />
 
 <br><br>
 
-<!-- Profile -->
 <a href="https://oxborn3.com">
-  <img src="https://github.com/0xb0rn3.png" width="170" style="border-radius: 50%;" alt="0xb0rn3"/>
+  <img src="https://github.com/0xb0rn3.png" width="160" style="border-radius:50%;" alt="0xb0rn3"/>
 </a>
 
 <br><br>
 
-<br>
-
-<!-- Badge Row -->
-<a href="https://oxborn3.com"><img src="https://img.shields.io/badge/Portfolio-oxborn3.com-1793d1?style=flat-square&logo=github-pages&logoColor=fff&labelColor=000" /></a>
+<a href="https://oxborn3.com"><img src="https://img.shields.io/badge/oxborn3.com-Portfolio-1793d1?style=flat-square&logo=github-pages&logoColor=fff&labelColor=000"/></a>
 &nbsp;
-<img src="https://img.shields.io/badge/Arch_Linux-btw_I_use_Arch-1793d1?style=flat-square&logo=archlinux&logoColor=fff&labelColor=000" />
+<img src="https://img.shields.io/badge/Archcraft-btw_I_use_Arch-1793d1?style=flat-square&logo=archlinux&logoColor=fff&labelColor=000"/>
 &nbsp;
-<a href="https://tryhackme.com/p/0xb0rn3"><img src="https://img.shields.io/badge/TryHackMe-0xb0rn3-1793d1?style=flat-square&logo=tryhackme&logoColor=fff&labelColor=000" /></a>
+<a href="https://tryhackme.com/p/0xb0rn3"><img src="https://img.shields.io/badge/TryHackMe-0xb0rn3-1793d1?style=flat-square&logo=tryhackme&logoColor=fff&labelColor=000"/></a>
 &nbsp;
-<a href="https://app.hackthebox.com/profile/0xb0rn3"><img src="https://img.shields.io/badge/HackTheBox-0xb0rn3-1793d1?style=flat-square&logo=hackthebox&logoColor=fff&labelColor=000" /></a>
+<a href="https://app.hackthebox.com/profile/0xb0rn3"><img src="https://img.shields.io/badge/HackTheBox-0xb0rn3-1793d1?style=flat-square&logo=hackthebox&logoColor=fff&labelColor=000"/></a>
 &nbsp;
-<a href="https://x.com/0xbv1"><img src="https://img.shields.io/badge/@0xbv1-1793d1?style=flat-square&logo=x&logoColor=fff&labelColor=000" /></a>
+<a href="https://x.com/0xbv1"><img src="https://img.shields.io/badge/@0xbv1-1793d1?style=flat-square&logo=x&logoColor=fff&labelColor=000"/></a>
 &nbsp;
-<a href="mailto:contact@oxborn3.com"><img src="https://img.shields.io/badge/contact@oxborn3.com-1793d1?style=flat-square&logo=mail&logoColor=fff&labelColor=000" /></a>
+<a href="mailto:contact@oxborn3.com"><img src="https://img.shields.io/badge/contact@oxborn3.com-1793d1?style=flat-square&logo=gmail&logoColor=fff&labelColor=000"/></a>
 
 </div>
 
@@ -36,7 +32,7 @@
 
 <div align="center">
 
-> **Cybersecurity enthusiast and hobbyist who learns by breaking things. Full-time Arch Linux user, addicted CTF player, and compulsive tool builder. Not a professional — just someone who can't stop hacking on projects. 86 repos deep and no signs of slowing down.**
+> **Cybersecurity hobbyist and compulsive tool builder. I learn by breaking things and automate everything that bores me. Archcraft daily driver, CTF addict, 86 repos deep with no signs of stopping. Not a professional — just someone who got way too into it.**
 
 </div>
 
@@ -45,7 +41,7 @@
 <!-- ═══════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 ### 🏴‍☠️ What I Spend My Time On
 
@@ -54,7 +50,6 @@
 <table>
 <tr>
 <td width="33%" valign="top">
-
 <div align="center">
 
 ```
@@ -65,24 +60,22 @@
 
 <sub>
 
-TryHackMe & HackTheBox Rooms  
-Boot2Root & Web Exploitation  
-Cryptography Challenges  
-Privilege Escalation Chains  
-Writeups with Exploit Scripts
+TryHackMe & HackTheBox Rooms
+Boot2Root & Web Exploitation
+Automated Autopwn Scripts
+Privilege Escalation Chains
+Full Writeups + Exploit Code
 
 </sub>
 
 <br>
 
-<img src="https://img.shields.io/badge/THM-Active-1793d1?style=flat-square&logo=tryhackme&logoColor=fff&labelColor=000" />
-<img src="https://img.shields.io/badge/HTB-Active-1793d1?style=flat-square&logo=hackthebox&logoColor=fff&labelColor=000" />
+<img src="https://img.shields.io/badge/THM-19%20Rooms-1793d1?style=flat-square&logo=tryhackme&logoColor=fff&labelColor=000"/>
+<img src="https://img.shields.io/badge/HTB-Incoming-1793d1?style=flat-square&logo=hackthebox&logoColor=fff&labelColor=000"/>
 
 </div>
-
 </td>
 <td width="33%" valign="top">
-
 <div align="center">
 
 ```
@@ -93,24 +86,22 @@ Writeups with Exploit Scripts
 
 <sub>
 
-Security Automation Scripts  
-OSINT & Reconnaissance Tools  
-Android Security Utilities  
-Penetration Testing Helpers  
-Whatever Scratches the Itch
+Security Automation & OSINT
+Android Device Management
+File Sharing & Infra Tools
+Terminal Aesthetics & Setup
+Shell-to-Go Multi-lang Builds
 
 </sub>
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-Primary-1793d1?style=flat-square&logo=python&logoColor=fff&labelColor=000" />
-<img src="https://img.shields.io/badge/Bash-Daily-1793d1?style=flat-square&logo=gnubash&logoColor=fff&labelColor=000" />
+<img src="https://img.shields.io/badge/Go-Primary-1793d1?style=flat-square&logo=go&logoColor=fff&labelColor=000"/>
+<img src="https://img.shields.io/badge/Python-Daily-1793d1?style=flat-square&logo=python&logoColor=fff&labelColor=000"/>
 
 </div>
-
 </td>
 <td width="33%" valign="top">
-
 <div align="center">
 
 ```
@@ -121,21 +112,20 @@ Whatever Scratches the Itch
 
 <sub>
 
-Archcraft Daily Driver  
-QEMU/KVM Security Labs  
-Dotfile Tweaking (Endlessly)  
-Desktop Ricing & Workflows  
-Breaking & Fixing My Own System
+Archcraft / CachyOS RT-BORE
+QEMU/KVM Security Labs
+Ollama + Local LLM Stacks
+Kernel Tuning & scx-scheds
+Breaking & Fixing My Own Rig
 
 </sub>
 
 <br>
 
-<img src="https://img.shields.io/badge/Archcraft-Main-1793d1?style=flat-square&logo=archlinux&logoColor=fff&labelColor=000" />
-<img src="https://img.shields.io/badge/XFCE4-Riced-1793d1?style=flat-square&logo=xfce&logoColor=fff&labelColor=000" />
+<img src="https://img.shields.io/badge/Archcraft-Main-1793d1?style=flat-square&logo=archlinux&logoColor=fff&labelColor=000"/>
+<img src="https://img.shields.io/badge/RT--BORE-Kernel-1793d1?style=flat-square&logo=linux&logoColor=fff&labelColor=000"/>
 
 </div>
-
 </td>
 </tr>
 </table>
@@ -145,7 +135,7 @@ Breaking & Fixing My Own System
 <!-- ═══════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 ### ⚡ Featured Work
 
@@ -153,47 +143,47 @@ Breaking & Fixing My Own System
 <tr>
 <td width="50%">
 
-<a href="https://github.com/0xb0rn3/secv">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=secv&theme=dark&hide_border=true&bg_color=0d1117&title_color=1793d1&icon_color=1793d1&text_color=aaaaaa&border_radius=12" />
+<a href="https://github.com/0xb0rn3/droidB">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=droidB&theme=dark&hide_border=true&bg_color=0d1117&title_color=1793d1&icon_color=1793d1&text_color=aaaaaa&border_radius=12"/>
 </a>
 
 </td>
 <td width="50%">
 
-<a href="https://github.com/0xb0rn3/kygox">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=kygox&theme=dark&hide_border=true&bg_color=0d1117&title_color=1793d1&icon_color=1793d1&text_color=aaaaaa&border_radius=12" />
+<a href="https://github.com/0xb0rn3/wallpimp">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=wallpimp&theme=dark&hide_border=true&bg_color=0d1117&title_color=1793d1&icon_color=1793d1&text_color=aaaaaa&border_radius=12"/>
 </a>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-<a href="https://github.com/0xb0rn3/krilin">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=krilin&theme=dark&hide_border=true&bg_color=0d1117&title_color=1793d1&icon_color=1793d1&text_color=aaaaaa&border_radius=12" />
-</a>
-
-</td>
 <td width="50%">
 
 <a href="https://github.com/0xb0rn3/CTFS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=CTFS&theme=dark&hide_border=true&bg_color=0d1117&title_color=1793d1&icon_color=1793d1&text_color=aaaaaa&border_radius=12" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<a href="https://github.com/0xb0rn3/fastdl">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=fastdl&theme=dark&hide_border=true&bg_color=0d1117&title_color=1793d1&icon_color=1793d1&text_color=aaaaaa&border_radius=12" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=CTFS&theme=dark&hide_border=true&bg_color=0d1117&title_color=1793d1&icon_color=1793d1&text_color=aaaaaa&border_radius=12"/>
 </a>
 
 </td>
 <td width="50%">
 
 <a href="https://github.com/0xb0rn3/fetch-tools">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=fetch-tools&theme=dark&hide_border=true&bg_color=0d1117&title_color=1793d1&icon_color=1793d1&text_color=aaaaaa&border_radius=12" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=fetch-tools&theme=dark&hide_border=true&bg_color=0d1117&title_color=1793d1&icon_color=1793d1&text_color=aaaaaa&border_radius=12"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<a href="https://github.com/0xb0rn3/gitnav">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=gitnav&theme=dark&hide_border=true&bg_color=0d1117&title_color=1793d1&icon_color=1793d1&text_color=aaaaaa&border_radius=12"/>
+</a>
+
+</td>
+<td width="50%">
+
+<a href="https://github.com/0xb0rn3/server">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xb0rn3&repo=server&theme=dark&hide_border=true&bg_color=0d1117&title_color=1793d1&icon_color=1793d1&text_color=aaaaaa&border_radius=12"/>
 </a>
 
 </td>
@@ -203,7 +193,7 @@ Breaking & Fixing My Own System
 <br>
 
 <a href="https://github.com/0xb0rn3?tab=repositories">
-<img src="https://img.shields.io/badge/View_all_86_repositories_→-1793d1?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000" />
+<img src="https://img.shields.io/badge/View_all_86_repositories_→-1793d1?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000"/>
 </a>
 
 </div>
@@ -213,27 +203,63 @@ Breaking & Fixing My Own System
 <!-- ═══════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+### 🗂️ Project Breakdown
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 [droidB](https://github.com/0xb0rn3/droidB)** — Advanced Android device manager. Universal debloater (300+ packages), Samsung Odin4/Heimdall flashing, MTK SP Flash Tool support, ADB automation, full device backup (SMS, contacts, media, APKs), and a complete Android security testing module — Frida integration, APK analysis, TLS cert management, proxy/traffic interception, and more. Written in Bash.
+
+**🖼️ [wallpimp](https://github.com/0xb0rn3/wallpimp)** — Cross-platform wallpaper manager. Hybrid Python + Go architecture: Python handles the CLI/tkinter GUI, a compiled Go engine handles all downloads via goroutines and a persistent socket. 19 curated sources, Unsplash integration, MD5 dedup, slideshow support across systemd/launchd/Task Scheduler. One-line install on all platforms.
+
+**🚩 [CTFS](https://github.com/0xb0rn3/CTFS)** — Purpose-built autopwn scripts for completed CTF rooms. Each script encodes the full exploitation chain end-to-end — recon → enum → shell → root — and runs hands-free. TryHackMe active (19 rooms and growing), HackTheBox incoming.
+
+</td>
+<td width="50%" valign="top">
+
+**🌿 [gitnav](https://github.com/0xb0rn3/gitnav)** — Browse GitHub repos from your terminal. Classic CLI menu or full-screen TUI. List/search repos, view stats, clone with live output, inspect issues and releases, render READMEs in-terminal, open any repo in browser. Written in Python.
+
+**🛠️ [fetch-tools](https://github.com/0xb0rn3/fetch-tools)** — Linux shell setup tool. Deploys `myfastfetch` with random anime logos, fastfetch integration, distro-aware aliases (Arch/Debian/Fedora/RHEL/openSUSE/Void), Oh My Zsh + ble.sh config, and a full alias library covering listing, navigation, network, git, docker, tmux, and more. One-liner install.
+
+**📡 [server](https://github.com/0xb0rn3/server)** — Authenticated file sharing server in a single Go binary. Password-protected sessions, drag-and-drop upload, bulk download, directory tar streaming, optional TLS with self-signed cert generation, and an OpenVPN config generator. Clean dark web UI baked in.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 ### 🛠️ Stack
 
-<img src="https://skillicons.dev/icons?i=python,bash,go,rust,c,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=go,python,rust,c,bash,js&theme=dark"/>
 <br><br>
-<img src="https://skillicons.dev/icons?i=linux,arch,docker,kubernetes,aws,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,arch,docker,kubernetes,neovim,git&theme=dark"/>
 
 <br><br>
 
 ```bash
-$ pacman -Q | grep "daily-drivers"
+$ cat /etc/current-loadout
 
-python 3.12          # primary weapon
-bash 5.2             # glue that holds everything together  
-go 1.22              # when python is too slow
-rust 1.78            # when go is too easy
-nmap 7.95            # old faithful
-burpsuite 2024       # web app companion
-metasploit 6         # when subtlety isn't needed
-wireshark 4          # packet whisperer
+go 1.24          # primary build language
+python 3.13      # scripting + tooling + AI
+rust 1.78        # when go isn't low-level enough
+c                # when nothing else will do
+bash 5.2         # glue that holds everything together
+nmap 7.95        # old faithful
+burpsuite 2025   # web companion
+frida            # dynamic instrumentation
+wireshark 4      # packet whisperer
+ollama           # local llm runtime
 ```
 
 </div>
@@ -243,7 +269,7 @@ wireshark 4          # packet whisperer
 <!-- ═══════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 ### 📊 Metrics
 
@@ -262,7 +288,7 @@ wireshark 4          # packet whisperer
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=0xb0rn3&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=0xb0rn3&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
 
 <br>
 
@@ -275,33 +301,33 @@ wireshark 4          # packet whisperer
 <!-- ═══════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 ### 🚩 CTF Writeups
 
 <br>
 
 <a href="https://0xb0rn3.github.io/CTF.html">
-<img src="https://img.shields.io/badge/🔴_Live_Writeups-0xb0rn3.github.io/CTF-1793d1?style=for-the-badge&logoColor=ffffff&labelColor=000000" />
+<img src="https://img.shields.io/badge/🔴_Live_Writeups-0xb0rn3.github.io/CTF-1793d1?style=for-the-badge&logoColor=ffffff&labelColor=000000"/>
 </a>
 &nbsp;
 <a href="https://github.com/0xb0rn3/CTFS">
-<img src="https://img.shields.io/badge/⚡_Exploit_Scripts-0xb0rn3/CTFS-1793d1?style=for-the-badge&logoColor=ffffff&labelColor=000000" />
+<img src="https://img.shields.io/badge/⚡_Exploit_Scripts-0xb0rn3/CTFS-1793d1?style=for-the-badge&logoColor=ffffff&labelColor=000000"/>
 </a>
 
 <br><br>
 
 ```
   ┌──(0xb0rn3㉿archcraft)-[~/CTFS]
-  └─$ ls -la writeups/
-  
-  drwxr-xr-x  THM/   ← TryHackMe rooms (growing daily)
-  drwxr-xr-x  HTB/   ← HackTheBox machines
-  -rwxr-xr-x  *.sh   ← Automated exploit scripts per room
-  -rw-r--r--  *.html  ← Full writeups with attack chains
-  
-  └─$ wc -l * | tail -1
-  → continuously updated. probably pwning something right now.
+  └─$ ls -la
+
+  drwxr-xr-x  THM/   ← TryHackMe autopwn scripts (19 rooms + growing)
+  drwxr-xr-x  HTB/   ← HackTheBox incoming
+  -rwxr-xr-x  *.sh   ← Standalone exploit scripts per room
+  -rw-r--r--  *.html ← Full writeups with attack chains
+
+  └─$ cat STATUS
+  → Probably pwning something right now.
 ```
 
 </div>
@@ -311,27 +337,27 @@ wireshark 4          # packet whisperer
 <!-- ═══════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 <br>
 
 ```
   ┌──(0xb0rn3㉿archcraft)-[~]
   └─$ echo "thanks for visiting"
-  
-  Cyber Enthusiast · CTF Addict · Arch Linux User
-  Learning by breaking things, one box at a time
+
+  Tool builder · CTF addict · Hobbyist who went too deep
+  Tanzania · oxborn3.com · @0xbv1
 ```
 
 <br>
 
-<a href="https://0xb0rn3.github.io"><img src="https://img.shields.io/badge/Portfolio-1793d1?style=flat-square&logo=github-pages&logoColor=fff&labelColor=000" /></a>
+<a href="https://oxborn3.com"><img src="https://img.shields.io/badge/Portfolio-1793d1?style=flat-square&logo=github-pages&logoColor=fff&labelColor=000"/></a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=0xb0rn3&style=flat-square&color=1793d1&label=profile+views&labelColor=000000" />
+<img src="https://komarev.com/ghpvc/?username=0xb0rn3&style=flat-square&color=1793d1&label=profile+views&labelColor=000000"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/0xb0rn3?style=flat-square&color=1793d1&labelColor=000000&label=followers&logo=github&logoColor=ffffff" />
+<img src="https://img.shields.io/github/followers/0xb0rn3?style=flat-square&color=1793d1&labelColor=000000&label=followers&logo=github&logoColor=ffffff"/>
 &nbsp;
-<img src="https://img.shields.io/github/stars/0xb0rn3?style=flat-square&color=1793d1&labelColor=000000&label=stars&logo=github&logoColor=ffffff" />
+<img src="https://img.shields.io/github/stars/0xb0rn3?style=flat-square&color=1793d1&labelColor=000000&label=stars&logo=github&logoColor=ffffff"/>
 
 <br><br>
 
