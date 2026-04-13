@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1793d1,100:000000&height=200&section=header&text=0xb0rn3&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=sys%2Fr00t%20%E2%80%A2%20tool%20builder%20%E2%80%A2%20breaker%20of%20things&descAlignY=58&descSize=16&descColor=cccccc"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,40:0a1628,70:1793d1,100:000000&height=220&section=header&text=0xb0rn3&fontSize=82&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=sys%2Fr00t%20%E2%80%A2%20tool%20builder%20%E2%80%A2%20breaker%20of%20things&descAlignY=62&descSize=17&descColor=a0c8ff"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=1793D1&center=true&vCenter=true&repeat=true&width=680&lines=%24+whoami+%23+hobbyist+who+can%27t+stop+building;%24+uname+-a+%23+archcraft+%7C+rt-bore+kernel;%24+ls+.%2Fprojects+%7C+wc+-l+%23+86+repos+and+counting;%24+nmap+-sV+--open+life+%2F%2F+always+scanning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=800&color=1793D1&center=true&vCenter=true&repeat=true&width=700&lines=%24+whoami+%23+0xb0rn3+%7C+0xbv1+%7C+kr0njob;%24+uname+-r+%23+linux-cachyos-rt-bore;%24+cat+%2Fetc%2Fos-release+%7C+grep+NAME+%23+Archcraft;%24+ls+~%2F+%7C+wc+-l+%23+86+repos+no+signs+of+stopping;%24+ps+aux+%7C+grep+hacking+%23+always+running;%24+git+log+--oneline+%7C+tail+-1+%23+just+shipped+something" alt="Typing SVG" />
 
 <br><br>
 
@@ -70,7 +70,7 @@ Full Writeups + Exploit Code
 
 <br>
 
-<img src="https://img.shields.io/badge/THM-19%20Rooms-1793d1?style=flat-square&logo=tryhackme&logoColor=fff&labelColor=000"/>
+<img src="https://img.shields.io/badge/THM-23%20Rooms-1793d1?style=flat-square&logo=tryhackme&logoColor=fff&labelColor=000"/>
 <img src="https://img.shields.io/badge/HTB-Incoming-1793d1?style=flat-square&logo=hackthebox&logoColor=fff&labelColor=000"/>
 
 </div>
@@ -217,7 +217,7 @@ Breaking & Fixing My Own Rig
 
 **🖼️ [wallpimp](https://github.com/0xb0rn3/wallpimp)** — Cross-platform wallpaper manager. Hybrid Python + Go architecture: Python handles the CLI/tkinter GUI, a compiled Go engine handles all downloads via goroutines and a persistent socket. 19 curated sources, Unsplash integration, MD5 dedup, slideshow support across systemd/launchd/Task Scheduler. One-line install on all platforms.
 
-**🚩 [CTFS](https://github.com/0xb0rn3/CTFS)** — Purpose-built autopwn scripts for completed CTF rooms. Each script encodes the full exploitation chain end-to-end — recon → enum → shell → root — and runs hands-free. TryHackMe active (19 rooms and growing), HackTheBox incoming.
+**🚩 [CTFS](https://github.com/0xb0rn3/CTFS)** — Purpose-built autopwn scripts for completed CTF rooms. Each script encodes the full exploitation chain end-to-end — recon → enum → shell → root — and runs hands-free. TryHackMe active (23 rooms and growing), HackTheBox incoming.
 
 </td>
 <td width="50%" valign="top">
@@ -321,7 +321,7 @@ ollama           # local llm runtime
   ┌──(0xb0rn3㉿archcraft)-[~/CTFS]
   └─$ ls -la
 
-  drwxr-xr-x  THM/   ← TryHackMe autopwn scripts (19 rooms + growing)
+  drwxr-xr-x  THM/   ← TryHackMe autopwn scripts (23 rooms + growing)
   drwxr-xr-x  HTB/   ← HackTheBox incoming
   -rwxr-xr-x  *.sh   ← Standalone exploit scripts per room
   -rw-r--r--  *.html ← Full writeups with attack chains
@@ -361,6 +361,6 @@ ollama           # local llm runtime
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1793d1,100:000000&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1793d1,100:000000&height=120&section=footer&animation=twinkling"/>
 
 </div>
