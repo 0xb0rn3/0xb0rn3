@@ -17,7 +17,7 @@
 
 <!-- ─── AVATAR — profile.jpg from oxborn3.com GitHub Pages repo ──── -->
 <a href="https://oxborn3.com">
-  <img src="https://raw.githubusercontent.com/0xb0rn3/0xb0rn3.github.io/main/profile.jpg"
+  <img src="https://raw.githubusercontent.com/0xb0rn3/0xb0rn3/main/profile.jpg"
        width="165"
        style="border-radius:50%;border:2px solid #fabd2f;"
        alt="0xb0rn3"/>
@@ -27,6 +27,8 @@
 
 <!-- ─── BADGE ROW — Gruvbox-toned colors ─────────────────────────── -->
 <a href="https://oxborn3.com"><img src="https://img.shields.io/badge/oxborn3.com-Portfolio-fabd2f?style=flat-square&logo=github-pages&logoColor=000&labelColor=0a0908"/></a>
+&nbsp;
+<img src="https://img.shields.io/badge/Arx_OS-Senior_Maintainer-fe8019?style=flat-square&logo=archlinux&logoColor=000&labelColor=0a0908"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Archcraft-btw_I_use_Arch-fabd2f?style=flat-square&logo=archlinux&logoColor=000&labelColor=0a0908"/>
 &nbsp;
