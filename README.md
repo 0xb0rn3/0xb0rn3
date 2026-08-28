@@ -4,9 +4,9 @@
 
 ### 0xb0rn3
 
-**Maintainer · Arx OS**
+**Maintainer · Arx OS** [arxos.uk](https://arxos.uk)
 
-sys / r00t · builds tools, breaks things
+    sys / r00t · builds tools, breaks things
 
 [oxborn3.com](https://oxborn3.com) · contact@oxborn3.com
 
